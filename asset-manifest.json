@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JayDamania/TodoApp-react.git/static/css/main.c1c50667.css",
+    "main.js": "/JayDamania/TodoApp-react.git/static/js/main.fc5090fb.js",
+    "static/js/787.b8fa26a9.chunk.js": "/JayDamania/TodoApp-react.git/static/js/787.b8fa26a9.chunk.js",
+    "index.html": "/JayDamania/TodoApp-react.git/index.html",
+    "main.c1c50667.css.map": "/JayDamania/TodoApp-react.git/static/css/main.c1c50667.css.map",
+    "main.fc5090fb.js.map": "/JayDamania/TodoApp-react.git/static/js/main.fc5090fb.js.map",
+    "787.b8fa26a9.chunk.js.map": "/JayDamania/TodoApp-react.git/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c50667.css",
+    "static/js/main.fc5090fb.js"
+  ]
+}
